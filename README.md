@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/gzntKPL6)
 # Tugas 4 Pemrograman Web Kelas G
 
@@ -43,7 +42,6 @@ Setelah anda mendapatkan token dari Vercel, buka GitHub, lalu masuk ke halaman `
 3. `VERCEL_PROJECT_ID` yang berisi variabel `projectId` yang dapat anda lihat di folder `./vercel` dan pada file `project.json` pada folder directory project anda.
 
 Jika anda sudah menyelesaikan tahap diatas, sekarang anda tinggal melakukan `push` repo anda dan script deployment akan langsung berjalan.
-=======
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -114,4 +112,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 7de56a5 (Initialize project using Create React App)
