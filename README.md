@@ -46,5 +46,6 @@ Jika anda sudah menyelesaikan tahap diatas, sekarang anda tinggal melakukan `pus
 ## Link Deployment
 
 Berikut adalah link dari hasil deployment:
+
 wordle-game-cqghg16eb-ferzen-kusumas-projects.vercel.app
 
