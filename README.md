@@ -43,5 +43,8 @@ Setelah anda mendapatkan token dari Vercel, buka GitHub, lalu masuk ke halaman `
 
 Jika anda sudah menyelesaikan tahap diatas, sekarang anda tinggal melakukan `push` repo anda dan script deployment akan langsung berjalan.
 
+## Link Deployment
 
+Berikut adalah link dari hasil deployment:
+wordle-game-cqghg16eb-ferzen-kusumas-projects.vercel.app
 
